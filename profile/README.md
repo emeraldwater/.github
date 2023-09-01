@@ -5,7 +5,7 @@
 
 ## What is this?
 Hyperstom is an open-source take on [DiamondFire](https://mcdiamondfire.com) written using 
-[Minestom](https://minestom.net/) and [Kotlin](https://kotlinlang.org/). A public instance is hosted at `Hyperstom.infernity.dev`
+[Minestom](https://minestom.net/) and [Kotlin](https://kotlinlang.org/). A public instance is hosted at `hyperstom.infernity.dev`
 
 ## Notable Features
 > **Warning**
